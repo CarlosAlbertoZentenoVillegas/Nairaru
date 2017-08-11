@@ -1,0 +1,39 @@
+.clsdivContenedorGeneralLogin{
+    height: 280px;
+    width: 100%;
+    background-color: rgb(208,147,26);
+    color:rgb(208,147,26);
+    text-align: center !important;
+    border-top: 2px solid #fff;
+    border-bottom: 2px solid #fff;
+}
+
+.clsdivContenedorLogin{
+    margin: 20px auto 20px auto !important;
+    height: 240px;
+    background-color:rgba(255,255,255,0.5);
+    width: 20%;
+    border: 1px solid #FFF;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.clsbtnFormularioLogin-Acceso
+{
+    width:100%;
+    color: #fff;
+    height: 40px !important;
+    border: 2px solid #fff !important;
+    background-color: rgb(208,147,26);
+}
+
+.clsbtnFormularioLogin-Acceso:hover
+{
+    color: rgb(208,147,26);
+    height: 40px !important;
+    border: 2px solid rgb(208,147,26) !important;
+    background-color: #fff;
+}
+
+.clsdivFormularioLoginTop-Izquierda h2{
+    font-size: 2em;
+}

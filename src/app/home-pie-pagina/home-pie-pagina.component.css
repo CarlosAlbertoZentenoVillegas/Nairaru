@@ -1,0 +1,10 @@
+.clsdivContenedorPiePagina{
+    display: block;
+    padding: 10px;
+    height: 150px;
+    width: 99.52%;
+    background-color: rgb(208,147,26);
+    color: #424242;
+    text-align: center;
+    font-size: 1.1em;
+}
