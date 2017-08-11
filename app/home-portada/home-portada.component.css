@@ -1,0 +1,102 @@
+.clsdivHome1{
+    /*background-color: #212121;*/
+    background-color: #ffc107;
+    filter: alpha(opacity=50);
+    opacity: 0.5;
+    width: 100%;
+    height:110px;
+    margin: 0px auto 0px auto;
+    border-top: 2px solid #fff;
+    border-bottom: 2px solid #fff;
+    position: absolute;
+    top: -900%;
+}
+
+.clsdivHome2{
+    color: #fff;
+    position: absolute;
+    top: -900%;
+    text-align: center;
+    font-size: 84px;
+    width: 100%;
+    height:110px;
+}
+
+.clshdrMenuHome
+{
+    width: 38%;
+    height: 180px;
+    position: absolute;
+    top: -600%;
+    left: 30%;
+    text-align: center;
+}
+.clsdivMenuHome{
+    margin: 10px auto 20px auto;
+    float: left;
+    position: absolute;
+}
+
+.clsdivMenuHome div{
+    width:130px;
+    height:130px;
+    border-top: 2px solid #fff;
+    border-bottom: 2px solid #fff;
+    transition: height .4s;
+}
+
+
+#divOpcion1MenuHome{
+    background-color: rgb(208,147,26, .5);
+    padding: 0px;
+}
+
+#divOpcion2MenuHome{
+    background-color: rgb(22,107,162, .5);
+    padding: 0px;
+}
+#divOpcion3MenuHome{
+    background-color: rgb(208,101,3, .5);
+    padding: 0px;
+}
+#divOpcion4MenuHome{
+    background-color: rgb(27,54,71, .5);
+    padding: 0px;
+}
+
+.clsimgMenuHome{
+    display: block;
+    width:60px;
+    height: 60px;
+    padding: 10px;
+    margin:20px auto;
+    background-color:rgba(255,255,255,.15);
+    border-radius:50%;
+    box-shadow: 0px 0px 0px 20px rgba(255,255,255, 0);
+    transition: box-shadow .6s;
+}
+
+.clspTextoMenuHome{
+    font-size: .8em;
+    transition: padding-top .4s;
+    color: #fff;
+    cursor: pointer;
+}
+
+.clspTextoMenuHome:hover{
+    color: #fff;
+}
+
+.clsdivMenuHome div:hover{
+    height:150px;
+}
+
+.clsdivMenuHome div:hover .clspTextoMenuHome{
+    height:150px;
+    padding-top: 20px;
+    opacity: 1;
+}
+
+.clsdivMenuHome div:hover .clsimgMenuHome{
+    box-shadow: 0px 0px 0px 0px rgba(255,255,255, .6);
+}

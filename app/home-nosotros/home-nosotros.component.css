@@ -1,0 +1,18 @@
+.clsdivContenedorGeneralNosotros{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(208,147,26);
+    text-align: center !important;
+    padding: 15px;
+}
+
+.clsdivContenedorNosotrosHomeCadaUno{
+    border-radius: 10px 10px 10px 10px;
+    border: 1px solid rgba(255,255,255,0.5);
+}
+
+.clsimgNostrosCadaUno{
+width:300px !important;
+padding: 10px;
+margin:2px auto !important;
+}

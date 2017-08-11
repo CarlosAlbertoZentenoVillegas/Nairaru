@@ -1,0 +1,21 @@
+.clsdivContenedorGeneralGaleria{
+    height: 760px;
+    width: 100%;
+    background-color: rgba(0,0,0,0.9);
+    text-align: center !important;
+    border-top: 2px solid #fff;
+    border-bottom: 2px solid #fff;
+}
+
+.clsdivContenedorGaleria{
+    margin: 5px auto 5px auto !important;
+    height: 630px;
+    background-color:rgba(255,255,255,0.5);
+    width: 50%;
+    border: 1px solid #FFF;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.clsdivBloqueDescripcionMaquinariaHome{
+    background-color:rgba(0,0,0,0.5);
+}
